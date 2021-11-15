@@ -1,7 +1,7 @@
 {
   "name": "base16-tomorrow-dark-warm",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Base16 dark theme for Atom, modified with neutral background color for editor and warmer background color for rest of UI",
   "keywords": [
     "base16",
