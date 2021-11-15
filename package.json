@@ -1,7 +1,7 @@
 {
   "name": "base16-tomorrow-dark-warm",
   "theme": "syntax",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Base16 dark syntax theme, modified from base16-tomorrow-dark-theme with warmer but mostly very dark background colors. Designed to work with One Dark UI theme",
   "keywords": [
     "base16",
