@@ -1,6 +1,6 @@
 # Base16 Tomorrow Dark Syntax Warm theme
 
-Modification of the Atom theme using the ever popular Base16 Tomorrow dark colors.
+Modification of the Atom Base16 Tomorrow Dark theme.
 
 Modifications include a neutral background for the editor and a warmer background
 color for the rest of the UI, and slight changes to a few UI elements.
